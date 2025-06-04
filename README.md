@@ -1,4 +1,4 @@
-# Python_and_AI_courses
+# AI_courses
 
 **Computer Vision in Microsoft Azure:**
 
